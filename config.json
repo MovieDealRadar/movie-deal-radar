@@ -1,0 +1,32 @@
+{
+  "poll_seconds": 60,
+  "reddit_feed": "https://www.reddit.com/r/MediaSwap/new/.rss",
+  "alert_unknown_boutique_le": true,
+  "minimum_generic_score": 60,
+  "targets": [
+    {
+      "title": "Example Second Sight Title",
+      "aliases": [
+        "example second sight title"
+      ],
+      "label": "Second Sight",
+      "format": "4K",
+      "edition": "Limited Edition",
+      "great_buy_max": 70,
+      "good_buy_max": 85,
+      "notes": "Replace with a real title and your thresholds."
+    },
+    {
+      "title": "Example Arrow Title",
+      "aliases": [
+        "example arrow title"
+      ],
+      "label": "Arrow",
+      "format": "4K",
+      "edition": "Limited Edition",
+      "great_buy_max": 45,
+      "good_buy_max": 60,
+      "notes": "Replace with a real title and your thresholds."
+    }
+  ]
+}
